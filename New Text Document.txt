@@ -1,0 +1,116 @@
+Hi
+Hi
+Nice to meet you
+And thanks for your replying
+User Avatar
+You too, no probs.
+Would you provide your requirement?
+more details
+Sure, So I have this IOS app VPN
+it currently failed the Apple review process for few reasons
+User Avatar
+Main one was primarily due to In App Purchases
+What can I do for you?
+So I'm not a developer
+but i read and understood what i needed to add to the app
+so I have designed the windows
+User Avatar
+I just need someone to implement the logic
+OK
+Would you share your project?
+So your requirement is that I should implement IAP in your app.
+right?
+No IAP is there
+I think its easier for me if i share u app
+Can i ?
+User Avatar
+Do you have testflight?
+yes
+should I send you my email?
+User Avatar
+okay
+howard_weaver86@hotmail.com
+Hmm it doesn't allow me to send you invite
+User Avatar
+i can share with you the project
+Can you share source?
+via google driver or wetransfer
+its not too big
+User Avatar
+OK
+Just sec
+Let me check it now
+User Avatar
+cool
+Give me few min
+first page
+right?
+yeah well it should sort of load this page first for few seconds on first install
+User Avatar
+then you should see the windows you are on
+yes
+just sec
+so should I fix it?
+increase seconds for splash screen?
+Yea i think that needs to be adjusted it seems to happen to fast or not at all
+but this should only be shown on first install
+if that make sense
+But the changes I would like you to quote me on are
+When the user installs the app
+they see the splash screen
+then they should see this window
+User Avatar
+Does that make sense?
+got it
+Cool
+then the next window
+should be this
+There should be a X in the top right corner
+User Avatar
+for user to close this window down
+got it
+Cool
+and if the user closes this down
+they will return to the main window with the connect button
+if they press connect
+it should show that
+User Avatar
+window to subscribe
+got it
+User Avatar
+one they have purchased the subscription the window should disappear and they should be able to use the app
+got it
+understood
+Cool and I would like the app to support Ipad if possible
+User Avatar
+how much would these changes cost and can you doit?
+Ok, I can do it.
+And 250
+$
+including ipad responsibility
+User Avatar
+Okay and ETA?
+I can just start. Can you award me and create milestone?
+User Avatar
+Cool and will you be able to upload the build to the appstore etc?
+If you provide apple account, I can publish it.
+User Avatar
+yeah i can
+OK
+Congratulations, your bid has been awarded!
+ Click the Accept button below to start working. 
+ This project has a budget of $150.00 USD and you will be charged a project commission of $15.00 USD on accept. 
+Davanne O. created a milestone
+ Milestone: 'Project milestone' 
+Amount: $ 250.00 USD 
+Accepted!
+ You're all set to start working 
+User Avatar
+some UI files
+OK
+User Avatar
+Need anything else ?
+Nothing for now
+If I need anything, I will contact you
+User Avatar
+thx 

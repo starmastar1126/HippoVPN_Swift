@@ -1,6 +1,0 @@
-framework module Pods_HippoVPN {
-  umbrella header "Pods-HippoVPN-umbrella.h"
-
-  export *
-  module * { export * }
-}
